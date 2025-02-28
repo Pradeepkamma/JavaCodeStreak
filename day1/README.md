@@ -1,7 +1,15 @@
-Check is a Number is Positive or Negative in Java
+1) Check is a Number is Positive or Negative in Java
 
-Example
+   Example
 
-Input : num = 11
+   Input : num = 11
 
-Output : Positive
+   Output : Positive
+
+2) Check Whether a number is Even or Odd in java
+
+   Example
+
+   Input : num = 10
+
+   Output : Odd
