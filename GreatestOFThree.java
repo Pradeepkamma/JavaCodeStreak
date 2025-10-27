@@ -16,10 +16,6 @@ public class GreatestOFThree {
 		System.out.println (num3 + " is the greater");
 		//else
 		//System.out.println (num3 + " is the greater");
-
-
-
 	}
-
 }
 
